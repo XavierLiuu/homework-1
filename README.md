@@ -3,7 +3,7 @@
 ## Instructions
 
 1. read __The Basics of GitHub__ section very closely
-2. complete all items on the __your homework__ section (at the bottom of this page)
+2. complete all items on __your homework__ section (at the bottom of this page)
 3. when you are done with your final `commit`, submit the link to this repo on Canvas
 
 # The Basics of GitHub
