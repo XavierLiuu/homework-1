@@ -112,19 +112,20 @@ You can check out the GitHub Explore website at [github.com/explore](https://git
 
 ## 📝 your homework `[100 pts]`
 
-* Open a pull request on this repo and let your teacher know that you’ve finished this __Basics of git and GitHub__ review. `[15 pts]`
-* Use __R Markdown__ to create a report that includes the following [50 pts]:
-  1. a table of contents, `[10 pts]`
-  2. a plot generated from an R code chunk, `[10 pts]`
-  3. at least two main headers and at least one sub-header, `[10 pts]`
-  4. a bulleted list in markdown, `[10 pts]`
-  5. at least one link. `[10 pts]`
+1. `[15 pts]` Open a pull request on this repo and let your teacher know that you’ve finished this __Basics of git and GitHub__ review.
+
+2. Use __R Markdown__ to create a report that includes the following:
+  - `[10 pts]` a table of contents,
+  - `[10 pts]` a plot generated from an R code chunk,
+  - `[10 pts]` at least two main headers and at least one sub-header,
+  - `[10 pts]` a bulleted list in markdown, and
+  - `[10 pts]` at least one link.
 
   The report should describe an interesting project that someone (or some organization) is working on that is posted to Github.  (Your plot does not need to be related to the site, however.  Just show us you can create a basic visual). There are no length requirements for this report.  You will be graded on whether or not you include 1 through 5 above.
 
-* Generate three versions of this report and place them in a folder called `/homework`: `[10 pts]`
+3. `[10 pts]` Generate three versions of this report and place them in a folder called `/homework`:
     - `.md`(GitHub flavored Markdown)
     - `.pdf`
     - `.html`
-* Create a folder called `/src` and place the script you used to create the reports there `[10 pts]`
-* `push` all the above files to this repo. Make sure to `commit` your progress throughout the day, and `push` your progress at the end of each day. Please note that you will not get credit for this item if you only `commit` and `push` once to the repo. `[15 pts]`
+4. `[10 pts]` Create a folder called `/src` and place the script you used to create the reports there
+5. `[15 pts]` `push` all the above files to this repo. Make sure to `commit` your progress throughout the day, and `push` your progress at the end of each day. Please note that you will not get credit for this item if you only `commit` and `push` once to the repo. 
