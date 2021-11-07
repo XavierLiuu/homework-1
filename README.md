@@ -4,7 +4,7 @@
 
 1. read __The Basics of GitHub__ section very closely
 2. complete all items on __your homework__ section (at the bottom of this page)
-3. when you are done with your final `commit`, submit the link to this repo on Canvas
+3. when you are done with your final `push`, submit the link to this repo on Canvas
 
 # The Basics of GitHub
 
@@ -127,5 +127,5 @@ You can check out the GitHub Explore website at [github.com/explore](https://git
     - `.md`(GitHub flavored Markdown)
     - `.pdf`
     - `.html`
-4. `[10 pts]` Create a folder called `/src` and place the script you used to create the reports there
-5. `[15 pts]` `push` all the above files to this repo. Make sure to `commit` your progress throughout the day, and `push` your progress at the end of each day. Please note that you will not get credit for this item if you only `commit` and `push` once to the repo. 
+4. `[10 pts]` Create a folder called `/src` where you will place the `.Rmd` file and any other scripts you used to create the reports.
+5. `[15 pts]` `push` all the above files to this repo. Make sure to `commit` your progress throughout the day, and `push` your progress at the end of each day. Please note that you will not get credit for this item if you only `commit` and `push` once to the repo.
