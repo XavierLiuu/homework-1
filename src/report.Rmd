@@ -1,0 +1,51 @@
+---
+title: "Report"
+author: "Runxiang Liu"
+date: "1/2/2023"
+output: 
+  md_document:
+    toc: yes
+    variant: markdown_github
+  html_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+# Homework 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Loading Data
+
+Loading cars datasets for plot
+```{r cars}
+summary(cars)
+```
+
+## Plots
+
+Ploting image
+
+```{r pressure, echo=FALSE}
+plot(cars)
+```
+
+## Bulleted List
+
+* Item1
+* Item2
+- Item3
+- Item4
+
+## Links
+
+### Automatic Links
+
+https://en.wikipedia.org
+
+### Standard Links
+
+[wikipedia](https://en.wikipedia.org)
